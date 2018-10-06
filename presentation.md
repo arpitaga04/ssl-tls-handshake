@@ -230,9 +230,9 @@ More about padding oracle attack : <br>
 https://www.youtube.com/watch?v=BbwC8f_aBMQ
 ---
 ## References:
-https://www.cryptologie.net/article/340/tls-pre-master-secrets-and-master-secrets/
-https://tlseminar.github.io/first-few-milliseconds/
-http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
-http://blog.catchpoint.com/2017/05/12/dissecting-tls-using-wireshark/
-https://www.youtube.com/watch?v=Rp3iZUvXWlM&t=922s
-https://medium.facilelogin.com/nuts-and-bolts-of-transport-layer-security-tls-2c5af298c4be
+* https://www.cryptologie.net/article/340/tls-pre-master-secrets-and-master-secrets/
+* https://tlseminar.github.io/first-few-milliseconds/
+* http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html
+* http://blog.catchpoint.com/2017/05/12/dissecting-tls-using-wireshark/
+* https://www.youtube.com/watch?v=Rp3iZUvXWlM&t=922s
+* https://medium.facilelogin.com/nuts-and-bolts-of-transport-layer-security-tls-2c5af298c4be
